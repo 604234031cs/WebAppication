@@ -19,6 +19,8 @@
 </head>
 <body>
     <h1>Demo Tag table</h1>
+    
+    <button onclick = "window.location.href = 'insert _emp_from.php';">บันทึกข้อมูลพนักงาน</button>
     <table border="1">
         <tr>
            <th>รหัส</th>
@@ -26,7 +28,7 @@
            <th>ตำแหนง</th>
            <th>MGR</th>
            <th>วันที่จ้าง</th>
-           <th>SAL</th>
+           <th>เงินเดือน</th>
            <th>COMM</th>
            <th>แผนก</th>
         </tr>
